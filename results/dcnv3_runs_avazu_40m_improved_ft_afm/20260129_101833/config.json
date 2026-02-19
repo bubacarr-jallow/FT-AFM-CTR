@@ -1,0 +1,12 @@
+{
+  "model": "DCNv3",
+  "data_dir": "runs_avazu_40m_improved_ft_afm",
+  "emb_dim": 16,
+  "dcn_layers": 3,
+  "batch_size": 8192,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "max_epochs": 12,
+  "patience": 3,
+  "num_workers": 2
+}

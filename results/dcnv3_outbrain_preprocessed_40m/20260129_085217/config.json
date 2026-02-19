@@ -1,0 +1,12 @@
+{
+  "model": "DCNv3",
+  "data_dir": "outbrain_preprocessed_40m",
+  "emb_dim": 16,
+  "dcn_layers": 3,
+  "batch_size": 8192,
+  "lr": 0.001,
+  "weight_decay": 0.0,
+  "max_epochs": 15,
+  "patience": 5,
+  "num_workers": 2
+}

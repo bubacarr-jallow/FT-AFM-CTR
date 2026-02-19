@@ -1,0 +1,16 @@
+[
+  {
+    "out_dir": "results/dcnv3_outbrain_preprocessed_40m/20260129_085217",
+    "test_auc": 0.6996679294335154,
+    "test_logloss": 0.45333534217817556,
+    "best_val_auc": 0.7127159306415305,
+    "epochs_ran": 8
+  },
+  {
+    "out_dir": "results/dcnv3_runs_avazu_40m_improved_ft_afm/20260129_101833",
+    "test_auc": 0.7353610537457186,
+    "test_logloss": 0.40568439720135263,
+    "best_val_auc": 0.7482760834384193,
+    "epochs_ran": 7
+  }
+]
